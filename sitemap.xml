@@ -78,6 +78,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/development/main-module.html"/>
     </url>
     <url>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/development/reference.html</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/development/reference.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/development/reference.html"/>
+    </url>
+    <url>
         <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/development/workspace-usage.html</loc>
         <lastmod>2024-07-10</lastmod>
         <changefreq>daily</changefreq>
@@ -118,6 +125,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/preliminaries/submission.html"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/preliminaries/submission.html"/>
+    </url>
+    <url>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/setup/build-docker.html</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/setup/build-docker.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/setup/build-docker.html"/>
     </url>
     <url>
         <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/setup/docker.html</loc>
@@ -253,6 +267,13 @@
         <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/development/main-module.html"/>
     </url>
     <url>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/development/reference.html</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/development/reference.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/development/reference.html"/>
+    </url>
+    <url>
         <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/development/workspace-usage.html</loc>
         <lastmod>2024-07-10</lastmod>
         <changefreq>daily</changefreq>
@@ -293,6 +314,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/preliminaries/submission.html"/>
         <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/preliminaries/submission.html"/>
+    </url>
+    <url>
+        <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/setup/build-docker.html</loc>
+        <lastmod>2024-07-10</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/setup/build-docker.html"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://automotiveaichallenge.github.io/aichallenge-documentation-2024/setup/build-docker.html"/>
     </url>
     <url>
         <loc>https://automotiveaichallenge.github.io/aichallenge-documentation-2024/en/setup/docker.html</loc>
